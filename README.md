@@ -1,0 +1,2 @@
+# quartermaster
+The quartermaster is the enlisted member in charge of the watch-to-watch navigation and the maintenance, correction, and preparation of nautical charts and navigation publications. Here, Quartermaster is used to describe an overview platform that allows for a unified view of a team's status. To start, this status is two-pronged: a 'Days Since' counter to mark individual team members as well as the overall team on clean deployments as well as a JIRA integration to view current tasks and tasks finished historically
